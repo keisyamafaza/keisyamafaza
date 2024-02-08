@@ -1,16 +1,15 @@
-### Hi there 👋
+# Biodata
 
-<!--
-**keisyamafaza/keisyamafaza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Nama
+Keisya Mafaza Fatiha
 
-Here are some ideas to get you started:
+## Tentang Saya
+saya berasal dari bantul yogyakarta, saya sekolah di sma sains al quran wahid hasyim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Pendidikan
+- SMA Sains Al-Qur'an
+
+## Kontak
+- Email: keisyamafaza24@gmail.com
+
+Jangan ragu untuk menyesuaikan informasi di atas dengan data pribadi Anda. Simpan file ini dengan nama yang sesuai dengan username GitHub Anda, misalnya `username_anda.md`, dan tambahkan atau unggah ke repository GitHub Anda.
